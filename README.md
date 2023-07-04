@@ -1,5 +1,5 @@
 # Human Resource Management System
-![Alt Text](https://github.com/Miral086/Human-Resource-Management-System/blob/main/HRM-video.gif)The Human Resource Management System (HRMS) is a comprehensive software solution designed to streamline and automate various human resource processes within an organization. This README file provides an overview of the HRMS and its key features, installation instructions, and other relevant information.
+![Alt Text](https://github.com/disneyjaviya20/HRM/blob/main/HRM-video.gif)The Human Resource Management System (HRMS) is a comprehensive software solution designed to streamline and automate various human resource processes within an organization. This README file provides an overview of the HRMS and its key features, installation instructions, and other relevant information.
 
 ## Features
 
